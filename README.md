@@ -1,0 +1,26 @@
+# Hey! I'm Mansi Pisal  👋 
+@@ Data Engineer | Business Management | Aspiring Data scientist @@
+
+
+<img width="455" alt="image" src="https://github.com/Mansipisal/Mansipisal/assets/76742478/4f81cae9-f087-4294-94ad-0a7d29e15a30">
+
+
+<!--
+**Mansipisal/Mansipisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Designer (3)-Photoroom (2)](https://github.com/Mansipisal/Mansipisal/assets/76742478/2dafe514-1b1d-41e9-90cc-e4f5ace461c1)
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
+-->
