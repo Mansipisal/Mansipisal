@@ -1,26 +1,49 @@
-# Hey! I'm Mansi Pisal  👋 
+
+
+
+<div align="center">
+
+# Hey! I'm Mansi Pisal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+
+
 @@ Data Engineer | Business Management | Aspiring Data scientist @@
 
 
-<img width="455" alt="image" src="https://github.com/Mansipisal/Mansipisal/assets/76742478/4f81cae9-f087-4294-94ad-0a7d29e15a30">
+</div>  
 
+<p align="center">
+<a href="https://www.linkedin.com/in/mansi-pisal/"><img src="https://img.shields.io/badge/-Mansi%20Pisal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pisalmansi1305@gmail.com"><img src="https://img.shields.io/badge/-pisalmansi1305-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
-<!--
-**Mansipisal/Mansipisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Designer (3)-Photoroom (2)](https://github.com/Mansipisal/Mansipisal/assets/76742478/2dafe514-1b1d-41e9-90cc-e4f5ace461c1)
+<br />
 
+<div align="center" >
+<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFncmJjYWJkbHJlMTJ0eGc1M3Z3ZHpka3h3c3FoejNwbG5iejN5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lebpnk3qVPAjBxIKKc/giphy.gif">
+</div>
 
-Here are some ideas to get you started:
+## <img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" width='42' /> About me -
+👦 I'm Computer Engineer.<br/>
+💻 I'm a Data Engineer with closed to 2 year of project experience in Data domain.<br/>
+👩‍💻 Currently, I'm exploring on to Master Data engineering, Data science skills to visualize big data with respect to make well decison.<br/>
+✍ In my free time, I enjoy reading self development books and like to voluteering <br/>
+📝 Have a look at my [resume](https://drive.google.com/file/d/1Qiv4pNVtKF4hy72dfC23EMZkmXIAlZMZ/view) for more about me. <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br />
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width='45' />Tech Stack
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![MySql](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQl&logoColor=ffdd54)
+   ![Apache Spark](https://img.shields.io/badge/Apachespark-3670A0?style=for-the-badge&logo=ApacheSpark&logoColor=ffdd54)
+    ![Databricks](https://img.shields.io/badge/Databricks-3670A0?style=for-the-badge&logo=Databricks&logoColor=ffdd54)
+    ![Hive](https://img.shields.io/badge/Hive-3670A0?style=for-the-badge&logo=Hive&logoColor=ffdd54)
 
+<br />
 
--->
+## <img src="https://media3.giphy.com/media/mAJXcr1kTuVvExyj2q/giphy.gif?cid=6c09b952tccdl5atu17png3vt9i9nt0an9g59lda2vn768f2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width='48' />CERTIFICATIONS
+<div align="Left" >
+ <img  src="https://uploads-ssl.webflow.com/627415c27c7f72741ba163f9/63188c97fbd0a646ced923da_microsoft-azure-fundamentals-official-training-certification.png" width="100px">
+  <img  src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxxjxdjk3gjquokl8euzu.png" width="100px">
+  <img  src="https://theeduplus.com/wp-content/uploads/2022/12/azure-data-engineer-associate-600x600-1.png" width="100px">
+  <img  src="https://miro.medium.com/v2/resize:fit:369/1*LkbOtaZvYKHVwDV8E0MmDA.png" width="100px">
+</div>
