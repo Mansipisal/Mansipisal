@@ -24,7 +24,7 @@
 
 ## <img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" width='42' /> About me -
 👦 I'm Computer Engineer.<br/>
-💻 I'm a Data Engineer with closed to 2 year of project experience in Data domain.<br/>
+💻 I'm a Data Engineer having 3 years of project experience in Data domain.<br/>
 👩‍💻 Currently, I'm exploring on to Master Data engineering, Data science skills to visualize big data with respect to make well decison.<br/>
 ✍ In my free time, I enjoy reading self development books and like to voluteering <br/>
 📝 Have a look at my [resume](https://drive.google.com/file/d/1Qiv4pNVtKF4hy72dfC23EMZkmXIAlZMZ/view) for more about me. <br/>
